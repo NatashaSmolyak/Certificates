@@ -1,5 +1,5 @@
 # Certificates
-## 1. Введение в Java Script (март 2023) [![image](https://user-images.githubusercontent.com/110128771/226199741-7eb366c2-81ae-4320-9523-1d352fd071b9.png)](https://drive.google.com/file/d/14eAPvxKpCdQ-z5KTVzZ9ysjmHy9VrA2F/view?usp=share_link)
+## 1. Введение в Java Script (март 2023) [![image](https://user-images.githubusercontent.com/110128771/226200077-d087c1d4-abe9-4c62-a50e-3b686b7eeeb9.png)](https://drive.google.com/file/d/14eAPvxKpCdQ-z5KTVzZ9ysjmHy9VrA2F/view?usp=share_link)
 
 ## 2. Тестирование ПО: Postman для тестирования API (февраль 2023) [![image](https://user-images.githubusercontent.com/110128771/217039211-9564e3a9-2419-4875-aed5-b765bceda524.png)](https://stepik.org/cert/1936752)
 
